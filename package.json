@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@wokwi/elements": "^0.48.1",
+    "lit-html": "^1.4.1",
+    "rp2040js": "^0.10.0"
+  }
+}
